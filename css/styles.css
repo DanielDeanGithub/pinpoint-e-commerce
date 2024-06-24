@@ -451,6 +451,10 @@
   .input-error {
     border-color: #F2F3F5;
   }
+
+  input:active.input-error {
+    border-color: #FC472E;
+  }
   
   .radio-item {
     margin-bottom: 15px;
